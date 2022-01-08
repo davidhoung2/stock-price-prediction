@@ -44,6 +44,7 @@ Model
 
 
 Custom Learning Rate 
+
 ![下載 (5)](https://user-images.githubusercontent.com/51390009/148638455-059284db-83e7-462d-9f88-43217ddae3eb.png)
 
 
@@ -86,8 +87,3 @@ Google
 
 	MAPE: 2.155821981127189% 
 
- 
-
-More details: 
-
-https://github.com/davidhoung2/stock-price-prediction 
