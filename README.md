@@ -56,6 +56,7 @@ Custom Learning Rate
 Result 
 
 Netflix 
+
 ![下載 (6)](https://user-images.githubusercontent.com/51390009/148638464-f677b67e-c626-497a-802e-364d7c9f1b63.png)
 
 
@@ -66,6 +67,7 @@ Netflix
  
 
 Amazon 
+
 ![下載 (7)](https://user-images.githubusercontent.com/51390009/148638468-4a667a29-72e7-4219-8165-124bd00f7cab.png)
 
 	RMSE: 104.9740532443128  
@@ -75,6 +77,7 @@ Amazon
  
 
 Telsa 
+
 ![下載 (8)](https://user-images.githubusercontent.com/51390009/148638475-1490f0fe-3e76-4990-a6bb-0b5d7148cc77.png)
 
 	RMSE: 29.76287513978468 
@@ -84,6 +87,7 @@ Telsa
  
 
 Google 
+
 ![下載 (9)](https://user-images.githubusercontent.com/51390009/148638477-7aee0936-8548-497d-8be0-c989fbfa636b.png)
 
 	RMSE: 77.6125292803508 
