@@ -27,8 +27,9 @@ Daily Return 百分比直方圖
 
 Risk v/s Expected Returns 
 
-從上圖可以看出，Tesla的預期收益最高，風險係數最高。 google的預期回報最低，風險因素最低。 
+
 ![下載 (3)](https://user-images.githubusercontent.com/51390009/148638444-eea3511a-42b9-47d4-9843-ac7141fee5b3.png)
+從上圖可以看出，Tesla的預期收益最高，風險係數最高。 google的預期回報最低，風險因素最低。 
 
 
 Deep learning Model 
