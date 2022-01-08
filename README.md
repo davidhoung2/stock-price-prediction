@@ -11,7 +11,8 @@ catch from kaggle
 
 Closing price v/s time	 
 
- 
+ ![下載](https://user-images.githubusercontent.com/51390009/148638357-b496dbc3-3a50-4138-bed7-fba024a41c96.png)
+
 
 Daily Return 百分比直方圖 
 
