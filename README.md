@@ -28,6 +28,7 @@ Risk v/s Expected Returns
 從上圖可以看出，Tesla的預期收益最高，風險係數最高。 google的預期回報最低，風險因素最低。 
 ![下載 (3)](https://user-images.githubusercontent.com/51390009/148638444-eea3511a-42b9-47d4-9843-ac7141fee5b3.png)
 
+
 Deep learning Model 
 
 ----------------------------------------------------------------------------------------------------------------- 
@@ -41,6 +42,7 @@ Model
 
 網絡輸入層的輸入數據形狀為 (5, 1)，表示使用時間序列的前五個值（i.e.一周的數據）作為輸入。僅考慮數據的一個屬性（即收盤值）。 
 
+
 Custom Learning Rate 
 ![下載 (5)](https://user-images.githubusercontent.com/51390009/148638455-059284db-83e7-462d-9f88-43217ddae3eb.png)
 
@@ -48,12 +50,6 @@ Custom Learning Rate
  
 
 Result 
-
-Blue: training 
-
-Orange: testing 
-
-Green : prediction 
 
 Netflix 
 ![下載 (6)](https://user-images.githubusercontent.com/51390009/148638464-f677b67e-c626-497a-802e-364d7c9f1b63.png)
