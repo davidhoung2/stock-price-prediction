@@ -23,6 +23,8 @@ Daily Return 百分比直方圖
 
 從上圖可以看出，Amazon和google的股票日收益率相關性最強 
 
+
+
 Risk v/s Expected Returns 
 
 從上圖可以看出，Tesla的預期收益最高，風險係數最高。 google的預期回報最低，風險因素最低。 
