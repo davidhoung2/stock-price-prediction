@@ -15,6 +15,7 @@ Closing price v/s time
 
 
 Daily Return 百分比直方圖 
+
 ![下載 (1)](https://user-images.githubusercontent.com/51390009/148638430-53295bd3-64f6-4493-9bf0-3ccf3f94b460.png)
 
 股票 daily returns 的相關性 
@@ -29,6 +30,7 @@ Risk v/s Expected Returns
 
 
 ![下載 (3)](https://user-images.githubusercontent.com/51390009/148638444-eea3511a-42b9-47d4-9843-ac7141fee5b3.png)
+
 從上圖可以看出，Tesla的預期收益最高，風險係數最高。 google的預期回報最低，風險因素最低。 
 
 
@@ -44,6 +46,7 @@ Model
 我們使用訓練數據集記錄訓練模型，然後用它來預測下一周的收盤值（i.e.一周的下五個值由五個工作日組成） 
 
 網絡輸入層的輸入數據形狀為 (5, 1)，表示使用時間序列的前五個值（i.e.一周的數據）作為輸入。僅考慮數據的一個屬性（即收盤值）。 
+
 
 
 Custom Learning Rate 
