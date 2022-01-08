@@ -18,6 +18,7 @@ Daily Return 百分比直方圖
 ![下載 (1)](https://user-images.githubusercontent.com/51390009/148638430-53295bd3-64f6-4493-9bf0-3ccf3f94b460.png)
 
 股票 daily returns 的相關性 
+
 ![下載 (2)](https://user-images.githubusercontent.com/51390009/148638434-04369fae-e657-43df-ad07-6b256e550e46.png)
 
 從上圖可以看出，Amazon和google的股票日收益率相關性最強 
@@ -58,9 +59,9 @@ Netflix
 ![下載 (6)](https://user-images.githubusercontent.com/51390009/148638464-f677b67e-c626-497a-802e-364d7c9f1b63.png)
 
 
-RMSE: 17.904191193967847  
+	RMSE: 17.904191193967847  
 
-MAPE: 2.22996091648307 % 
+	MAPE: 2.22996091648307 % 
 
  
 
@@ -69,7 +70,7 @@ Amazon
 
 	RMSE: 104.9740532443128  
 
-MAPE: 2.4166268304806455% 
+	MAPE: 2.4166268304806455% 
 
  
 
@@ -78,7 +79,7 @@ Telsa
 
 	RMSE: 29.76287513978468 
 
-MAPE: 3.2131938232249864% 
+	MAPE: 3.2131938232249864% 
 
  
 
@@ -87,7 +88,7 @@ Google
 
 	RMSE: 77.6125292803508 
 
-MAPE: 2.155821981127189% 
+	MAPE: 2.155821981127189% 
 
  
 
